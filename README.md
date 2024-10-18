@@ -21,8 +21,9 @@ The dataset used in this project is a simple text file (`wordlist.txt`) containi
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd Recurrent-Neural-Network-Word-Autocomplete
+   git clone https://github.com/Moshintha20/Word-Autocompletion-Using-RNN-and-PyTorch
+   cd Word-Autocompletion-Using-RNN-and-PyTorch
+
    ```
 
 2. Install the required Python dependencies:
