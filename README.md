@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project implements a **Recurrent Neural Network (RNN)** for word autocompletion. The model is designed to suggest possible completions for partially typed words, similar to what is used in modern applications like email or text messaging. For example, given the input "univ", the model might suggest completions such as "university" or "universal".
+   
 
 ![Autocomplete](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5c12e83004286304a71d5b72/images/66d0cb106eb51e63b8f9fbc6/file-gBQe016VYt.gif)
 
