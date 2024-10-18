@@ -55,5 +55,7 @@ The RNN model successfully predicts meaningful word completions based on partial
 - Experiment with more advanced RNN architectures, such as LSTMs or GRUs.
 - Optimize the model for faster predictions.
 
+<!--
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+-->
