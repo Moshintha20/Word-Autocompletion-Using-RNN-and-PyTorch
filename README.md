@@ -18,28 +18,6 @@ The project is implemented using **PyTorch** and is trained on a dataset of 10,0
 ## Dataset
 The dataset used in this project is a simple text file (`wordlist.txt`) containing 10,000 common English words, which acts as the vocabulary for the autocompletion model.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Moshintha20/Word-Autocompletion-Using-RNN-and-PyTorch
-   cd Word-Autocompletion-Using-RNN-and-PyTorch
-
-   ```
-
-2. Install the required Python dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-1. Run the main Python script to train the model and get predictions:
-   ```bash
-   python main.py
-   ```
-
-2. Input a string of 3-4 letters, and the model will output the most likely word completions based on the trained data.
 
 ## Model Architecture
 - The model uses a **Recurrent Neural Network (RNN)** to predict word completions.
